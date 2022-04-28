@@ -1,6 +1,6 @@
 # Git & GitHub Course
 
-https://amigoscode.com/git-github
+https://amigoscode.com/p/git-github
 
 ## This repo was used to learn git from Amigoscode
 
